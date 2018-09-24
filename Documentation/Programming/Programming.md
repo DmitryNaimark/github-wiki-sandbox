@@ -1,3 +1,3 @@
 Programming page
 
-[Link to JavaScript.md file](JavaScript/JavaScript.md)
+[Relative Link to `JavaScript/JavaScript.md`](JavaScript/JavaScript.md)

@@ -1,4 +1,4 @@
 # github-wiki-sandbox
 In this repository I experiment with GitHub Wiki features, `markdown(.md)` files
 
-[Link to Documentation.md file](Documentation/Documentation.md)
+[Relative Link to `Documentation/Documentation.md`](Documentation/Documentation.md)

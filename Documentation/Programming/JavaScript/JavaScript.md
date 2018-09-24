@@ -1,3 +1,4 @@
 JavaScript page
 
-[Relative link to grandparent folder `"Documentation"`](../../Documentation.md)
+[Relative Link to grandparent: `../../Documentation.md`](../../Documentation.md)
+Note: GitHub suggests to use relative links instead of absolute links
